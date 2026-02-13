@@ -102,10 +102,7 @@ Import dataset into SQL Server
 Open Power BI dashboard file (.pbix)
 
 👨‍💻 Author
-
 Nikhil
-Aspiring Data Analyst
-Python | SQL | Power BI
 
 Email:aryan.nikhil004@gmail.com
 

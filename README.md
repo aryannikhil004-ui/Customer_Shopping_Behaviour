@@ -2,7 +2,7 @@
 
 📊 End-to-End Data Analytics Project (Python + SQL + Power BI)
 
-📌 Project Overview
+#📌 **Project Overview**
 
 This project focuses on analyzing customer shopping behavior using a structured dataset. The goal is to extract meaningful insights through Exploratory Data Analysis (EDA), perform data cleaning, run SQL queries, and build an interactive Power BI dashboard for business decision-making.
 
@@ -96,6 +96,9 @@ High-value customers contribute significantly to revenue
 This project demonstrates a complete data analytics workflow:
 Raw data → Cleaned data → Insights → Dashboard
 It highlights how data can be transformed into actionable business intelligence.
+
+Email:aryan.nikhil.004@gmail.com
+
 
 
 

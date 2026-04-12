@@ -1,4 +1,4 @@
-## 🛍️ Customer Shopping Behavior Analysis
+🛍️ Customer Shopping Behavior Analysis
 📊 End-to-End Data Analytics Project (Python + SQL + Power BI)
 
 📌 Project Overview
@@ -11,12 +11,12 @@ Identify high-value customers
 Analyze product/category performance
 Detect trends in spending behavior
 Support data-driven business strategies
+
 🛠️ Tools & Technologies
 🐍 Python – Data cleaning & EDA
 🗄️ SQL Server – Data querying & transformation
 📊 Power BI – Dashboard & visualization
 📚 Libraries: Pandas, NumPy, Matplotlib, Seaborn
-
 📂 Dataset Description
 
 The dataset contains customer shopping-related information such as:
@@ -29,28 +29,34 @@ Purchase Amount
 Payment Method
 Purchase Frequency
 Ratings / Reviews
+
 🔍 Step 1: Data Loading (Python)
 Imported CSV file using Pandas
 Checked structure using .info() and .describe()
 Verified missing values and data types
+
 🧹 Step 2: Data Cleaning
 Handled missing/null values
 Removed duplicates
 Converted data types where required
 Treated outliers using IQR method
 Standardized column names
+
 📊 Step 3: Exploratory Data Analysis (EDA)
 🔹 Univariate Analysis
 Distribution of numerical features (Age, Purchase Amount)
 Count plots for categorical features (Gender, Category)
+
 🔹 Bivariate Analysis
 Purchase Amount vs Age
 Category vs Spending
 Gender vs Purchase Behavior
+
 🔹 Key Insights
 Identified top-performing product categories
 Found spending trends across age groups
 Analyzed customer segmentation patterns
+
 🗄️ Step 4: SQL Analysis (SQL Server)
 Created database and tables
 Imported cleaned dataset
@@ -59,6 +65,7 @@ Total sales by category
 Average purchase by customer
 Top 10 high-value customers
 Monthly sales trends
+
 📈 Step 5: Power BI Dashboard
 
 Built an interactive dashboard including:

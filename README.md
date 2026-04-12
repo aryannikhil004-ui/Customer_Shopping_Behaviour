@@ -6,7 +6,7 @@
 
 This project focuses on analyzing customer shopping behavior using a structured dataset. The goal is to extract meaningful insights through Exploratory Data Analysis (EDA), perform data cleaning, run SQL queries, and build an interactive Power BI dashboard for business decision-making.
 
-🎯 Objectives
+##🎯 Objectives
 
 Understand customer purchasing patterns
 Identify high-value customers

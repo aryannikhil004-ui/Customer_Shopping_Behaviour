@@ -1,4 +1,4 @@
-🛍️ Customer Shopping Behavior Analysis
+##🛍️ Customer Shopping Behavior Analysis
 📊 End-to-End Data Analytics Project (Python + SQL + Power BI)
 
 📌 Project Overview

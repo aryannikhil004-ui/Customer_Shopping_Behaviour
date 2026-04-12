@@ -1,8 +1,7 @@
-##🛍️ Customer Shopping Behavior Analysis
+🛍️ Customer Shopping Behavior Analysis
 📊 End-to-End Data Analytics Project (Python + SQL + Power BI)
 
 📌 Project Overview
-
 This project focuses on analyzing customer shopping behavior using a structured dataset. The goal is to extract meaningful insights through Exploratory Data Analysis (EDA), perform data cleaning, run SQL queries, and build an interactive Power BI dashboard for business decision-making.
 
 🎯 Objectives
@@ -17,10 +16,9 @@ Support data-driven business strategies
 🗄️ SQL Server – Data querying & transformation
 📊 Power BI – Dashboard & visualization
 📚 Libraries: Pandas, NumPy, Matplotlib, Seaborn
+
 📂 Dataset Description
-
 The dataset contains customer shopping-related information such as:
-
 Customer ID
 Age / Gender
 Location
@@ -67,9 +65,7 @@ Top 10 high-value customers
 Monthly sales trends
 
 📈 Step 5: Power BI Dashboard
-
 Built an interactive dashboard including:
-
 Sales Overview
 Category-wise Performance
 Customer Demographics
@@ -83,9 +79,7 @@ Seasonal trends impact sales performance
 High-value customers contribute significantly to revenue
 
 🚀 Conclusion
-
 This project demonstrates a complete data analytics workflow:
-
 Raw data → Cleaned data → Insights → Dashboard
 It highlights how data can be transformed into actionable business intelligence.
 
